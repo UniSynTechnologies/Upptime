@@ -97,8 +97,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /Upptime
+  cname: status.unisnytechnologies.com
+  # baseUrl: /Upptime
   logoUrl: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/05/14113831/unisyn-logo-sm.png
   name: UniSyn Technologies
   introTitle: "**UniSyn** is a local web design and development team, specializing in high quality websites and applications!"
