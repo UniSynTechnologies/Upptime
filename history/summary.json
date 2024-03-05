@@ -436,18 +436,20 @@
     "url": "https://www.rethinkasphalt.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.rethinkasphalt.com.ico",
     "slug": "illinois-asphalt-pavement-association",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1731,
-    "timeDay": 1731,
-    "timeWeek": 1731,
-    "timeMonth": 1731,
-    "timeYear": 1731,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1783,
+    "timeDay": 1783,
+    "timeWeek": 1783,
+    "timeMonth": 1783,
+    "timeYear": 1783,
+    "dailyMinutesDown": {
+      "2024-03-05": 1
+    }
   },
   {
     "name": "Inspire Your",
@@ -653,19 +655,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1550,
     "timeDay": 1550,
     "timeWeek": 1550,
     "timeMonth": 1550,
     "timeYear": 1550,
-    "dailyMinutesDown": {
-      "2024-03-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Salon House",
