@@ -292,19 +292,19 @@
     "url": "https://nwa.flowfeed.app",
     "icon": "https://icons.duckduckgo.com/ip3/nwa.flowfeed.app.ico",
     "slug": "flowfeed-app",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 147,
-    "timeDay": 107,
-    "timeWeek": 108,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 150,
+    "timeDay": 154,
+    "timeWeek": 118,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {
-      "2024-03-16": 1
+      "2024-03-16": 24
     }
   },
   {
