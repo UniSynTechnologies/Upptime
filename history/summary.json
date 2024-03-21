@@ -40,19 +40,19 @@
     "url": "https://www.ahuntdesign.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ahuntdesign.com.ico",
     "slug": "a-hunt-design",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 2267,
     "timeDay": 1919,
     "timeWeek": 2102,
     "timeMonth": 2267,
     "timeYear": 2267,
     "dailyMinutesDown": {
-      "2024-03-21": 22
+      "2024-03-21": 23
     }
   },
   {
@@ -115,38 +115,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2134,
     "timeDay": 1279,
     "timeWeek": 1411,
     "timeMonth": 2134,
     "timeYear": 2134,
-    "dailyMinutesDown": {
-      "2024-03-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CU flowerhouse",
     "url": "https://www.thecuflowerhouse.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thecuflowerhouse.com.ico",
     "slug": "cu-flowerhouse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 1339,
-    "timeDay": 1224,
-    "timeWeek": 1213,
-    "timeMonth": 1339,
-    "timeYear": 1339,
+    "time": 1613,
+    "timeDay": 3823,
+    "timeWeek": 2081,
+    "timeMonth": 1613,
+    "timeYear": 1613,
     "dailyMinutesDown": {
-      "2024-03-21": 22
+      "2024-03-21": 23
     }
   },
   {
@@ -198,7 +196,7 @@
     "uptimeYear": "100.00%",
     "time": 1290,
     "timeDay": 1011,
-    "timeWeek": 1618,
+    "timeWeek": 1604,
     "timeMonth": 1290,
     "timeYear": 1290,
     "dailyMinutesDown": {}
@@ -227,19 +225,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ecstone.com.ico",
     "slug": "elmhurst-chicago-stone",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2216,
     "timeDay": 1865,
     "timeWeek": 1737,
     "timeMonth": 2216,
     "timeYear": 2216,
-    "dailyMinutesDown": {
-      "2024-03-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Evergreen Senior Living",
@@ -301,11 +297,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nwa.flowfeed.app.ico",
     "slug": "flowfeed-app",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 147,
     "timeDay": 158,
     "timeWeek": 137,
@@ -357,19 +353,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.h2cartage.com.ico",
     "slug": "h2-cartage",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2215,
     "timeDay": 1600,
     "timeWeek": 1731,
     "timeMonth": 2215,
     "timeYear": 2215,
-    "dailyMinutesDown": {
-      "2024-03-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Heritage Operations Group",
@@ -559,19 +553,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.thelandconnection.org.ico",
     "slug": "land-connection",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 596,
     "timeDay": 376,
     "timeWeek": 489,
     "timeMonth": 596,
     "timeYear": 596,
-    "dailyMinutesDown": {
-      "2024-03-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lets Rock Minnesota",
