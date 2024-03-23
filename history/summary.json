@@ -242,18 +242,20 @@
     "url": "https://evergreenslc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/evergreenslc.com.ico",
     "slug": "evergreen-senior-living",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 534,
     "timeDay": 1396,
     "timeWeek": 687,
     "timeMonth": 534,
     "timeYear": 534,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-23": 4
+    }
   },
   {
     "name": "Fairwood Sustainability",
@@ -299,12 +301,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 150,
     "timeDay": 175,
-    "timeWeek": 156,
+    "timeWeek": 149,
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {
@@ -334,18 +336,20 @@
     "url": "https://greentreepharm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/greentreepharm.com.ico",
     "slug": "green-tree-pharmacy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1140,
     "timeDay": 1399,
     "timeWeek": 1085,
     "timeMonth": 1140,
     "timeYear": 1140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-23": 3
+    }
   },
   {
     "name": "H2 Cartage",
@@ -370,36 +374,40 @@
     "url": "https://heritageofcare.com/",
     "icon": "https://icons.duckduckgo.com/ip3/heritageofcare.com.ico",
     "slug": "heritage-operations-group",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 925,
     "timeDay": 626,
     "timeWeek": 800,
     "timeMonth": 925,
     "timeYear": 925,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-23": 2
+    }
   },
   {
     "name": "Heritage Operations Group Employee Portal",
     "url": "https://employeeofheritage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/employeeofheritage.com.ico",
     "slug": "heritage-operations-group-employee-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1776,
     "timeDay": 2308,
     "timeWeek": 2021,
     "timeMonth": 1776,
     "timeYear": 1776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-23": 2
+    }
   },
   {
     "name": "Hoopeston",
@@ -606,10 +614,10 @@
     "url": "https://evergreenslc.com/orlandpark",
     "icon": "https://icons.duckduckgo.com/ip3/evergreenslc.com.ico",
     "slug": "orland-park",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 858,
@@ -617,7 +625,9 @@
     "timeWeek": 834,
     "timeMonth": 858,
     "timeYear": 858,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-23": 1
+    }
   },
   {
     "name": "Pan & Cake Catering Co",
@@ -808,9 +818,9 @@
     "url": "https://villasseniorcare.com/",
     "icon": "https://icons.duckduckgo.com/ip3/villasseniorcare.com.ico",
     "slug": "villas-senior-care-community",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -819,7 +829,9 @@
     "timeWeek": 931,
     "timeMonth": 1037,
     "timeYear": 1037,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-23": 0
+    }
   },
   {
     "name": "Worksource",
