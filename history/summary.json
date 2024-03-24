@@ -650,9 +650,9 @@
     "url": "https://www.parkewarehouses.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.parkewarehouses.com.ico",
     "slug": "parke-warehouses",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -661,7 +661,9 @@
     "timeWeek": 1059,
     "timeMonth": 1155,
     "timeYear": 1155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-24": 0
+    }
   },
   {
     "name": "Photonicare",
@@ -778,18 +780,20 @@
     "url": "https://www.tuscolafoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tuscolafoundation.org.ico",
     "slug": "tuscola-community-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 1082,
-    "timeWeek": 984,
-    "timeMonth": 945,
-    "timeYear": 945,
-    "dailyMinutesDown": {}
+    "time": 928,
+    "timeDay": 751,
+    "timeWeek": 913,
+    "timeMonth": 928,
+    "timeYear": 928,
+    "dailyMinutesDown": {
+      "2024-03-24": 0
+    }
   },
   {
     "name": "Urbana Parks Foundation",
