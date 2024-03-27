@@ -188,18 +188,20 @@
     "url": "https://www.drgsbrainworks.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.drgsbrainworks.com.ico",
     "slug": "dr-g-brainworks",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1532,
     "timeDay": 4276,
     "timeWeek": 2184,
     "timeMonth": 1532,
     "timeYear": 1532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-27": 2
+    }
   },
   {
     "name": "Elite ITC Services",
@@ -430,18 +432,20 @@
     "url": "https://www.letsrockillinois.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.letsrockillinois.com.ico",
     "slug": "illinois-lets-rock",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1243,
     "timeDay": 553,
     "timeWeek": 1704,
     "timeMonth": 1243,
     "timeYear": 1243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-27": 2
+    }
   },
   {
     "name": "ILFMA",
@@ -650,10 +654,10 @@
     "url": "https://www.parkewarehouses.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.parkewarehouses.com.ico",
     "slug": "parke-warehouses",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1184,
@@ -661,7 +665,9 @@
     "timeWeek": 1108,
     "timeMonth": 1184,
     "timeYear": 1184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-27": 1
+    }
   },
   {
     "name": "Photonicare",
@@ -778,9 +784,9 @@
     "url": "https://www.tuscolafoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tuscolafoundation.org.ico",
     "slug": "tuscola-community-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -789,7 +795,9 @@
     "timeWeek": 1060,
     "timeMonth": 975,
     "timeYear": 975,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-27": 0
+    }
   },
   {
     "name": "Urbana Parks Foundation",
