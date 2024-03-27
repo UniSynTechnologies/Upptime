@@ -706,19 +706,19 @@
     "url": "https://www.thesalonhouse.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thesalonhouse.com.ico",
     "slug": "salon-house",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1799,
-    "timeDay": 3155,
-    "timeWeek": 2081,
-    "timeMonth": 1799,
-    "timeYear": 1799,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1786,
+    "timeDay": 2262,
+    "timeWeek": 1992,
+    "timeMonth": 1786,
+    "timeYear": 1786,
     "dailyMinutesDown": {
-      "2024-03-27": 1
+      "2024-03-27": 8
     }
   },
   {
