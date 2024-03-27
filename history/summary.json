@@ -189,19 +189,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.drgsbrainworks.com.ico",
     "slug": "dr-g-brainworks",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1543,
     "timeDay": 3695,
     "timeWeek": 2163,
     "timeMonth": 1543,
     "timeYear": 1543,
-    "dailyMinutesDown": {
-      "2024-03-27": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Elite ITC Services",
@@ -433,19 +431,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.letsrockillinois.com.ico",
     "slug": "illinois-lets-rock",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1225,
     "timeDay": 561,
     "timeWeek": 1611,
     "timeMonth": 1225,
     "timeYear": 1225,
-    "dailyMinutesDown": {
-      "2024-03-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ILFMA",
@@ -655,19 +651,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.parkewarehouses.com.ico",
     "slug": "parke-warehouses",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1169,
     "timeDay": 825,
     "timeWeek": 1060,
     "timeMonth": 1169,
     "timeYear": 1169,
-    "dailyMinutesDown": {
-      "2024-03-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Photonicare",
@@ -712,10 +706,10 @@
     "url": "https://www.thesalonhouse.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thesalonhouse.com.ico",
     "slug": "salon-house",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1799,
@@ -723,7 +717,9 @@
     "timeWeek": 2081,
     "timeMonth": 1799,
     "timeYear": 1799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-27": 1
+    }
   },
   {
     "name": "Stone Face Manor",
@@ -785,19 +781,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tuscolafoundation.org.ico",
     "slug": "tuscola-community-foundation",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 969,
     "timeDay": 1401,
     "timeWeek": 1031,
     "timeMonth": 969,
     "timeYear": 969,
-    "dailyMinutesDown": {
-      "2024-03-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Urbana Parks Foundation",
