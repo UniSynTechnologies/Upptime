@@ -196,7 +196,7 @@
     "uptimeYear": "100.00%",
     "time": 1476,
     "timeDay": 845,
-    "timeWeek": 1208,
+    "timeWeek": 1102,
     "timeMonth": 1476,
     "timeYear": 1476,
     "dailyMinutesDown": {}
@@ -318,18 +318,20 @@
     "url": "https://www.focusopex.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.focusopex.com.ico",
     "slug": "focus-opex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1645,
-    "timeDay": 1619,
-    "timeWeek": 1679,
-    "timeMonth": 1645,
-    "timeYear": 1645,
-    "dailyMinutesDown": {}
+    "time": 1716,
+    "timeDay": 3045,
+    "timeWeek": 2028,
+    "timeMonth": 1716,
+    "timeYear": 1716,
+    "dailyMinutesDown": {
+      "2024-04-03": 1
+    }
   },
   {
     "name": "Green Tree Pharmacy",
@@ -438,7 +440,7 @@
     "uptimeYear": "100.00%",
     "time": 1442,
     "timeDay": 12328,
-    "timeWeek": 2363,
+    "timeWeek": 2617,
     "timeMonth": 1442,
     "timeYear": 1442,
     "dailyMinutesDown": {}
@@ -658,7 +660,7 @@
     "uptimeYear": "99.96%",
     "time": 1172,
     "timeDay": 1133,
-    "timeWeek": 1128,
+    "timeWeek": 1185,
     "timeMonth": 1172,
     "timeYear": 1172,
     "dailyMinutesDown": {
@@ -788,7 +790,7 @@
     "uptimeYear": "99.96%",
     "time": 988,
     "timeDay": 1738,
-    "timeWeek": 1039,
+    "timeWeek": 1073,
     "timeMonth": 988,
     "timeYear": 988,
     "dailyMinutesDown": {
