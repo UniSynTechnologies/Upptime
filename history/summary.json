@@ -189,19 +189,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.drgsbrainworks.com.ico",
     "slug": "dr-g-brainworks",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1476,
     "timeDay": 845,
     "timeWeek": 1208,
     "timeMonth": 1476,
     "timeYear": 1476,
-    "dailyMinutesDown": {
-      "2024-04-02": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Elite ITC Services",
@@ -433,19 +431,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.letsrockillinois.com.ico",
     "slug": "illinois-lets-rock",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1442,
     "timeDay": 12328,
     "timeWeek": 2363,
     "timeMonth": 1442,
     "timeYear": 1442,
-    "dailyMinutesDown": {
-      "2024-04-02": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ILFMA",
@@ -655,18 +651,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.parkewarehouses.com.ico",
     "slug": "parke-warehouses",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1172,
     "timeDay": 1133,
     "timeWeek": 1128,
     "timeMonth": 1172,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2024-04-02": 14,
       "2024-03-28": 17
     }
   },
@@ -786,18 +781,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tuscolafoundation.org.ico",
     "slug": "tuscola-community-foundation",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 988,
     "timeDay": 1738,
     "timeWeek": 1039,
     "timeMonth": 988,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2024-04-02": 13,
       "2024-03-28": 16
     }
   },
