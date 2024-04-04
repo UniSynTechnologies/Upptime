@@ -470,19 +470,19 @@
     "url": "https://www.rethinkasphalt.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.rethinkasphalt.com.ico",
     "slug": "illinois-asphalt-pavement-association",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1702,
-    "timeDay": 1394,
-    "timeWeek": 1447,
-    "timeMonth": 1702,
-    "timeYear": 1702,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 1697,
+    "timeDay": 1455,
+    "timeWeek": 1455,
+    "timeMonth": 1697,
+    "timeYear": 1697,
     "dailyMinutesDown": {
-      "2024-04-04": 1
+      "2024-04-04": 20
     }
   },
   {
@@ -600,19 +600,19 @@
     "url": "https://www.letsrockmissouri.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.letsrockmissouri.com.ico",
     "slug": "lets-rock-missouri",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2708,
-    "timeDay": 5271,
-    "timeWeek": 2771,
-    "timeMonth": 2708,
-    "timeYear": 2708,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 2744,
+    "timeDay": 4723,
+    "timeWeek": 2947,
+    "timeMonth": 2744,
+    "timeYear": 2744,
     "dailyMinutesDown": {
-      "2024-04-04": 1
+      "2024-04-04": 20
     }
   },
   {
