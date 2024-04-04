@@ -172,19 +172,19 @@
     "url": "https://www.d1networks-inc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.d1networks-inc.com.ico",
     "slug": "d1-networks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1005,
-    "timeDay": 2190,
-    "timeWeek": 1224,
-    "timeMonth": 1005,
-    "timeYear": 1005,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1092,
+    "timeDay": 3023,
+    "timeWeek": 1609,
+    "timeMonth": 1092,
+    "timeYear": 1092,
     "dailyMinutesDown": {
-      "2024-04-04": 1
+      "2024-04-04": 16
     }
   },
   {
