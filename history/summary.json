@@ -5,19 +5,17 @@
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-home-page",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1014,
     "timeDay": 872,
     "timeWeek": 973,
     "timeMonth": 1014,
     "timeYear": 1014,
-    "dailyMinutesDown": {
-      "2024-04-04": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "3 Guys Concrete",
@@ -174,10 +172,10 @@
     "url": "https://www.d1networks-inc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.d1networks-inc.com.ico",
     "slug": "d1-networks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 939,
@@ -185,7 +183,9 @@
     "timeWeek": 881,
     "timeMonth": 939,
     "timeYear": 939,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 1
+    }
   },
   {
     "name": "Dr. G Brainworks",
