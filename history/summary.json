@@ -78,10 +78,10 @@
     "url": "https://www.ccenvstew.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ccenvstew.com.ico",
     "slug": "champaign-county-environmental-stewards",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1210,
@@ -90,6 +90,7 @@
     "timeMonth": 1235,
     "timeYear": 1210,
     "dailyMinutesDown": {
+      "2024-04-05": 1,
       "2024-04-03": 16
     }
   },
@@ -699,18 +700,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "90.14%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.57%",
+    "uptimeDay": "87.70%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 1763,
     "timeDay": 0,
     "timeWeek": 1378,
     "timeMonth": 1788,
     "timeYear": 1763,
     "dailyMinutesDown": {
-      "2024-04-05": 7,
+      "2024-04-05": 42,
       "2024-04-04": 135,
       "2024-03-05": 16
     }
