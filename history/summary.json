@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1017,
-    "timeDay": 940,
+    "timeDay": 1154,
     "timeWeek": 989,
-    "timeMonth": 1008,
+    "timeMonth": 1011,
     "timeYear": 1017,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1889,
     "timeDay": 1792,
     "timeWeek": 2258,
-    "timeMonth": 1926,
+    "timeMonth": 1927,
     "timeYear": 1889,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 2392,
     "timeDay": 2797,
     "timeWeek": 2877,
-    "timeMonth": 2415,
+    "timeMonth": 2435,
     "timeYear": 2392,
     "dailyMinutesDown": {
       "2024-03-21": 22
@@ -69,7 +69,7 @@
     "time": 979,
     "timeDay": 783,
     "timeWeek": 845,
-    "timeMonth": 972,
+    "timeMonth": 979,
     "timeYear": 979,
     "dailyMinutesDown": {}
   },
@@ -87,7 +87,7 @@
     "time": 1201,
     "timeDay": 1038,
     "timeWeek": 1105,
-    "timeMonth": 1224,
+    "timeMonth": 1239,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2024-04-05": 29,
@@ -108,7 +108,7 @@
     "time": 1255,
     "timeDay": 1381,
     "timeWeek": 1324,
-    "timeMonth": 1210,
+    "timeMonth": 1224,
     "timeYear": 1255,
     "dailyMinutesDown": {}
   },
@@ -126,7 +126,7 @@
     "time": 2001,
     "timeDay": 2332,
     "timeWeek": 1887,
-    "timeMonth": 1714,
+    "timeMonth": 1715,
     "timeYear": 2001,
     "dailyMinutesDown": {}
   },
@@ -144,7 +144,7 @@
     "time": 1515,
     "timeDay": 1368,
     "timeWeek": 1607,
-    "timeMonth": 1497,
+    "timeMonth": 1504,
     "timeYear": 1515,
     "dailyMinutesDown": {
       "2024-03-21": 22
@@ -164,7 +164,7 @@
     "time": 1115,
     "timeDay": 2019,
     "timeWeek": 1194,
-    "timeMonth": 1104,
+    "timeMonth": 1064,
     "timeYear": 1115,
     "dailyMinutesDown": {}
   },
@@ -175,14 +175,14 @@
     "slug": "d1-networks",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1077,
-    "timeDay": 2911,
+    "timeDay": 417,
     "timeWeek": 1604,
-    "timeMonth": 1035,
+    "timeMonth": 1050,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2024-04-04": 16
@@ -202,7 +202,7 @@
     "time": 1457,
     "timeDay": 817,
     "timeWeek": 1033,
-    "timeMonth": 1498,
+    "timeMonth": 1514,
     "timeYear": 1457,
     "dailyMinutesDown": {}
   },
@@ -220,7 +220,7 @@
     "time": 1121,
     "timeDay": 986,
     "timeWeek": 1185,
-    "timeMonth": 1050,
+    "timeMonth": 1060,
     "timeYear": 1121,
     "dailyMinutesDown": {}
   },
@@ -238,7 +238,7 @@
     "time": 2289,
     "timeDay": 1288,
     "timeWeek": 2020,
-    "timeMonth": 2117,
+    "timeMonth": 2122,
     "timeYear": 2289,
     "dailyMinutesDown": {}
   },
@@ -248,15 +248,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/evergreenslc.com.ico",
     "slug": "evergreen-senior-living",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 531,
     "timeDay": 324,
     "timeWeek": 405,
-    "timeMonth": 509,
+    "timeMonth": 515,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2024-03-23": 16
@@ -267,18 +267,20 @@
     "url": "https://www.fairwoodsustainability.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fairwoodsustainability.com.ico",
     "slug": "fairwood-sustainability",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 984,
     "timeDay": 1069,
     "timeWeek": 823,
-    "timeMonth": 967,
+    "timeMonth": 976,
     "timeYear": 984,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-05": 2
+    }
   },
   {
     "name": "Farm Link",
@@ -294,7 +296,7 @@
     "time": 1873,
     "timeDay": 1497,
     "timeWeek": 1532,
-    "timeMonth": 1862,
+    "timeMonth": 1865,
     "timeYear": 1873,
     "dailyMinutesDown": {}
   },
@@ -332,7 +334,7 @@
     "time": 1735,
     "timeDay": 2563,
     "timeWeek": 2022,
-    "timeMonth": 1717,
+    "timeMonth": 1731,
     "timeYear": 1735,
     "dailyMinutesDown": {
       "2024-04-03": 15
@@ -352,7 +354,7 @@
     "time": 1217,
     "timeDay": 958,
     "timeWeek": 1202,
-    "timeMonth": 1275,
+    "timeMonth": 1266,
     "timeYear": 1217,
     "dailyMinutesDown": {
       "2024-03-23": 16
@@ -372,7 +374,7 @@
     "time": 2050,
     "timeDay": 2417,
     "timeWeek": 1740,
-    "timeMonth": 1895,
+    "timeMonth": 1916,
     "timeYear": 2050,
     "dailyMinutesDown": {}
   },
@@ -390,7 +392,7 @@
     "time": 898,
     "timeDay": 1246,
     "timeWeek": 926,
-    "timeMonth": 879,
+    "timeMonth": 887,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2024-03-23": 15
@@ -410,7 +412,7 @@
     "time": 1872,
     "timeDay": 2344,
     "timeWeek": 2438,
-    "timeMonth": 1814,
+    "timeMonth": 1837,
     "timeYear": 1872,
     "dailyMinutesDown": {}
   },
@@ -428,7 +430,7 @@
     "time": 639,
     "timeDay": 610,
     "timeWeek": 630,
-    "timeMonth": 642,
+    "timeMonth": 641,
     "timeYear": 639,
     "dailyMinutesDown": {}
   },
@@ -446,7 +448,7 @@
     "time": 1412,
     "timeDay": 718,
     "timeWeek": 2463,
-    "timeMonth": 1501,
+    "timeMonth": 1493,
     "timeYear": 1412,
     "dailyMinutesDown": {}
   },
@@ -464,7 +466,7 @@
     "time": 1700,
     "timeDay": 1294,
     "timeWeek": 1622,
-    "timeMonth": 1725,
+    "timeMonth": 1722,
     "timeYear": 1700,
     "dailyMinutesDown": {}
   },
@@ -475,14 +477,14 @@
     "slug": "illinois-asphalt-pavement-association",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 1696,
-    "timeDay": 1564,
+    "timeDay": 1612,
     "timeWeek": 1496,
-    "timeMonth": 1691,
+    "timeMonth": 1630,
     "timeYear": 1696,
     "dailyMinutesDown": {
       "2024-04-04": 20
@@ -497,12 +499,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2540,
     "timeDay": 2765,
     "timeWeek": 2617,
-    "timeMonth": 2550,
+    "timeMonth": 2604,
     "timeYear": 2540,
     "dailyMinutesDown": {
       "2024-03-05": 17
@@ -513,36 +515,40 @@
     "url": "https://www.letsrockiowa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.letsrockiowa.com.ico",
     "slug": "iowa-lets-rock",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2699,
     "timeDay": 2518,
     "timeWeek": 2300,
-    "timeMonth": 2720,
+    "timeMonth": 2732,
     "timeYear": 2699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-05": 2
+    }
   },
   {
     "name": "KeepUsSafe",
     "url": "https://www.keepussafe.app/",
     "icon": "https://icons.duckduckgo.com/ip3/www.keepussafe.app.ico",
     "slug": "keep-us-safe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1185,
     "timeDay": 788,
     "timeWeek": 1314,
-    "timeMonth": 1220,
+    "timeMonth": 1219,
     "timeYear": 1185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-05": 1
+    }
   },
   {
     "name": "KleenRite",
@@ -558,7 +564,7 @@
     "time": 1908,
     "timeDay": 1764,
     "timeWeek": 1664,
-    "timeMonth": 1928,
+    "timeMonth": 1922,
     "timeYear": 1908,
     "dailyMinutesDown": {}
   },
@@ -576,7 +582,7 @@
     "time": 552,
     "timeDay": 441,
     "timeWeek": 481,
-    "timeMonth": 536,
+    "timeMonth": 538,
     "timeYear": 552,
     "dailyMinutesDown": {}
   },
@@ -594,7 +600,7 @@
     "time": 962,
     "timeDay": 570,
     "timeWeek": 780,
-    "timeMonth": 869,
+    "timeMonth": 879,
     "timeYear": 962,
     "dailyMinutesDown": {}
   },
@@ -605,14 +611,14 @@
     "slug": "lets-rock-missouri",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 2732,
-    "timeDay": 3219,
+    "timeDay": 2262,
     "timeWeek": 2907,
-    "timeMonth": 2662,
+    "timeMonth": 2688,
     "timeYear": 2732,
     "dailyMinutesDown": {
       "2024-04-04": 20
@@ -632,7 +638,7 @@
     "time": 862,
     "timeDay": 866,
     "timeWeek": 949,
-    "timeMonth": 858,
+    "timeMonth": 859,
     "timeYear": 862,
     "dailyMinutesDown": {}
   },
@@ -645,12 +651,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1865,
     "timeDay": 2293,
     "timeWeek": 1905,
-    "timeMonth": 1826,
+    "timeMonth": 1816,
     "timeYear": 1865,
     "dailyMinutesDown": {
       "2024-03-05": 16
@@ -670,7 +676,7 @@
     "time": 1191,
     "timeDay": 1869,
     "timeWeek": 1295,
-    "timeMonth": 1191,
+    "timeMonth": 1192,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2024-03-28": 17
@@ -690,7 +696,7 @@
     "time": 804,
     "timeDay": 797,
     "timeWeek": 925,
-    "timeMonth": 788,
+    "timeMonth": 794,
     "timeYear": 804,
     "dailyMinutesDown": {}
   },
@@ -700,18 +706,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "85.69%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.51%",
+    "uptime": "97.08%",
+    "uptimeDay": "7.47%",
+    "uptimeWeek": "86.78%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "97.08%",
     "time": 1763,
     "timeDay": 0,
     "timeWeek": 1378,
-    "timeMonth": 1788,
+    "timeMonth": 1553,
     "timeYear": 1763,
     "dailyMinutesDown": {
-      "2024-04-05": 72,
+      "2024-04-05": 1198,
       "2024-04-04": 135,
       "2024-03-05": 16
     }
@@ -730,7 +736,7 @@
     "time": 1756,
     "timeDay": 900,
     "timeWeek": 1589,
-    "timeMonth": 1850,
+    "timeMonth": 1858,
     "timeYear": 1756,
     "dailyMinutesDown": {}
   },
@@ -748,7 +754,7 @@
     "time": 1427,
     "timeDay": 909,
     "timeWeek": 1435,
-    "timeMonth": 1492,
+    "timeMonth": 1506,
     "timeYear": 1427,
     "dailyMinutesDown": {}
   },
@@ -766,7 +772,7 @@
     "time": 1130,
     "timeDay": 145,
     "timeWeek": 600,
-    "timeMonth": 1107,
+    "timeMonth": 1090,
     "timeYear": 1130,
     "dailyMinutesDown": {}
   },
@@ -784,7 +790,7 @@
     "time": 1886,
     "timeDay": 1756,
     "timeWeek": 1914,
-    "timeMonth": 1873,
+    "timeMonth": 1875,
     "timeYear": 1886,
     "dailyMinutesDown": {}
   },
@@ -802,7 +808,7 @@
     "time": 987,
     "timeDay": 1037,
     "timeWeek": 1158,
-    "timeMonth": 909,
+    "timeMonth": 921,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2024-03-28": 16
@@ -813,18 +819,20 @@
     "url": "https://www.urbanaparksfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.urbanaparksfoundation.org.ico",
     "slug": "urbana-parks-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1142,
     "timeDay": 1383,
     "timeWeek": 1225,
-    "timeMonth": 1100,
+    "timeMonth": 1105,
     "timeYear": 1142,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-05": 0
+    }
   },
   {
     "name": "Villas Senior Care Community",
@@ -840,7 +848,7 @@
     "time": 1024,
     "timeDay": 1077,
     "timeWeek": 926,
-    "timeMonth": 1066,
+    "timeMonth": 1038,
     "timeYear": 1024,
     "dailyMinutesDown": {}
   },
@@ -858,7 +866,7 @@
     "time": 1214,
     "timeDay": 2861,
     "timeWeek": 1509,
-    "timeMonth": 1238,
+    "timeMonth": 1251,
     "timeYear": 1214,
     "dailyMinutesDown": {}
   }
