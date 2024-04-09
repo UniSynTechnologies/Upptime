@@ -101,10 +101,10 @@
     "url": "https://cybras.com",
     "icon": "https://icons.duckduckgo.com/ip3/cybras.com.ico",
     "slug": "confidentially-yours",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1253,
@@ -112,7 +112,9 @@
     "timeWeek": 1254,
     "timeMonth": 1262,
     "timeYear": 1253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-09": 1
+    }
   },
   {
     "name": "Core40",
@@ -714,18 +716,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "down",
-    "uptime": "88.17%",
+    "uptime": "87.51%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.52%",
-    "uptimeMonth": "86.31%",
-    "uptimeYear": "88.17%",
+    "uptimeWeek": "36.72%",
+    "uptimeMonth": "85.44%",
+    "uptimeYear": "87.51%",
     "time": 1763,
     "timeDay": 0,
     "timeWeek": 1242,
     "timeMonth": 1493,
     "timeYear": 1763,
     "dailyMinutesDown": {
-      "2024-04-09": 101,
+      "2024-04-09": 484,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
