@@ -110,7 +110,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1198,
-    "timeDay": 1121,
+    "timeDay": 1420,
     "timeWeek": 1130,
     "timeMonth": 1162,
     "timeYear": 1198,
@@ -123,10 +123,10 @@
     "url": "https://www.core-40.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2120,
@@ -134,7 +134,9 @@
     "timeWeek": 3385,
     "timeMonth": 2134,
     "timeYear": 2120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-24": 2
+    }
   },
   {
     "name": "CU flowerhouse",
@@ -236,10 +238,10 @@
     "url": "https://www.ecstone.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecstone.com.ico",
     "slug": "elmhurst-chicago-stone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2259,
@@ -247,7 +249,9 @@
     "timeWeek": 2267,
     "timeMonth": 2134,
     "timeYear": 2259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-24": 1
+    }
   },
   {
     "name": "Evergreen Senior Living",
@@ -377,18 +381,20 @@
     "url": "https://www.h2cartage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.h2cartage.com.ico",
     "slug": "h2-cartage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2014,
-    "timeDay": 1816,
-    "timeWeek": 1771,
-    "timeMonth": 1885,
-    "timeYear": 2014,
-    "dailyMinutesDown": {}
+    "time": 2153,
+    "timeDay": 6626,
+    "timeWeek": 2738,
+    "timeMonth": 2144,
+    "timeYear": 2153,
+    "dailyMinutesDown": {
+      "2024-04-24": 1
+    }
   },
   {
     "name": "Heritage Operations Group",
@@ -470,11 +476,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ilfma.org.ico",
     "slug": "ilfma",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 2169,
     "timeDay": 1448,
     "timeWeek": 2307,
@@ -696,7 +702,7 @@
     "time": 1404,
     "timeDay": 1387,
     "timeWeek": 2690,
-    "timeMonth": 1604,
+    "timeMonth": 1590,
     "timeYear": 1404,
     "dailyMinutesDown": {
       "2024-03-28": 17
@@ -728,11 +734,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "up",
-    "uptime": "90.56%",
+    "uptime": "90.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.45%",
-    "uptimeYear": "90.56%",
+    "uptimeYear": "90.66%",
     "time": 1898,
     "timeDay": 1906,
     "timeWeek": 2612,
@@ -834,7 +840,7 @@
     "time": 1008,
     "timeDay": 1352,
     "timeWeek": 1101,
-    "timeMonth": 1058,
+    "timeMonth": 1075,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2024-03-28": 16
