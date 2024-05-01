@@ -132,7 +132,7 @@
     "uptimeYear": "100.00%",
     "time": 2067,
     "timeDay": 1855,
-    "timeWeek": 1820,
+    "timeWeek": 1997,
     "timeMonth": 2127,
     "timeYear": 2067,
     "dailyMinutesDown": {}
@@ -164,19 +164,19 @@
     "url": "https://www.customflooringinteriors.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.customflooringinteriors.com.ico",
     "slug": "custom-flooring-and-interior",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1136,
     "timeDay": 1842,
     "timeWeek": 1599,
     "timeMonth": 1182,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2024-05-01": 11
+      "2024-05-01": 3
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://www.d1networks-inc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.d1networks-inc.com.ico",
     "slug": "d1-networks",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1072,
     "timeDay": 2133,
     "timeWeek": 1369,
     "timeMonth": 1205,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2024-05-01": 10,
+      "2024-05-01": 2,
       "2024-04-04": 16
     }
   },
@@ -223,19 +223,19 @@
     "url": "https://www.elite-ict.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.elite-ict.com.ico",
     "slug": "elite-itc-services",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1123,
     "timeDay": 489,
     "timeWeek": 1163,
     "timeMonth": 1135,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2024-05-01": 9
+      "2024-05-01": 2
     }
   },
   {
@@ -251,7 +251,7 @@
     "uptimeYear": "100.00%",
     "time": 2356,
     "timeDay": 2110,
-    "timeWeek": 2811,
+    "timeWeek": 3038,
     "timeMonth": 2384,
     "timeYear": 2356,
     "dailyMinutesDown": {}
@@ -392,7 +392,7 @@
     "uptimeYear": "100.00%",
     "time": 2290,
     "timeDay": 1611,
-    "timeWeek": 3377,
+    "timeWeek": 2767,
     "timeMonth": 2485,
     "timeYear": 2290,
     "dailyMinutesDown": {}
@@ -609,7 +609,7 @@
     "uptimeYear": "100.00%",
     "time": 641,
     "timeDay": 602,
-    "timeWeek": 1301,
+    "timeWeek": 1218,
     "timeMonth": 732,
     "timeYear": 641,
     "dailyMinutesDown": {}
@@ -737,11 +737,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "up",
-    "uptime": "91.77%",
+    "uptime": "91.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "84.40%",
-    "uptimeYear": "91.77%",
+    "uptimeYear": "91.78%",
     "time": 1933,
     "timeDay": 1473,
     "timeWeek": 2166,
@@ -763,10 +763,10 @@
     "url": "https://www.thesalonhouse.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thesalonhouse.com.ico",
     "slug": "salon-house",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1676,
@@ -774,7 +774,9 @@
     "timeWeek": 1613,
     "timeMonth": 1543,
     "timeYear": 1676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 1
+    }
   },
   {
     "name": "Stone Face Manor",
