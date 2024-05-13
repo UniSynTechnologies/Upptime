@@ -126,19 +126,19 @@
     "url": "https://www.core-40.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 2097,
-    "timeDay": 2099,
-    "timeWeek": 1925,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 2099,
+    "timeDay": 2135,
+    "timeWeek": 1953,
     "timeMonth": 2308,
-    "timeYear": 2097,
+    "timeYear": 2099,
     "dailyMinutesDown": {
-      "2024-05-13": 21
+      "2024-05-13": 28
     }
   },
   {
