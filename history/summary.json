@@ -126,19 +126,19 @@
     "url": "https://www.core-40.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2097,
     "timeDay": 2318,
     "timeWeek": 1858,
     "timeMonth": 2296,
     "timeYear": 2097,
     "dailyMinutesDown": {
-      "2024-05-13": 12
+      "2024-05-13": 2
     }
   },
   {
@@ -242,19 +242,19 @@
     "url": "https://www.ecstone.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecstone.com.ico",
     "slug": "elmhurst-chicago-stone",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2282,
     "timeDay": 1894,
     "timeWeek": 1778,
     "timeMonth": 2299,
     "timeYear": 2282,
     "dailyMinutesDown": {
-      "2024-05-13": 12
+      "2024-05-13": 1
     }
   },
   {
@@ -389,19 +389,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.h2cartage.com.ico",
     "slug": "h2-cartage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2277,
     "timeDay": 2439,
     "timeWeek": 2272,
     "timeMonth": 2517,
     "timeYear": 2277,
-    "dailyMinutesDown": {
-      "2024-05-13": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Heritage Operations Group",
@@ -612,19 +610,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.thelandconnection.org.ico",
     "slug": "land-connection",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 398,
     "timeWeek": 565,
     "timeMonth": 750,
     "timeYear": 622,
-    "dailyMinutesDown": {
-      "2024-05-13": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lets Rock Minnesota",
@@ -751,11 +747,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "up",
-    "uptime": "93.15%",
+    "uptime": "93.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "93.15%",
+    "uptimeYear": "93.16%",
     "time": 2119,
     "timeDay": 3348,
     "timeWeek": 2818,
