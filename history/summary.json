@@ -127,18 +127,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 2099,
     "timeDay": 2135,
     "timeWeek": 1953,
     "timeMonth": 2308,
     "timeYear": 2099,
     "dailyMinutesDown": {
-      "2024-05-13": 28
+      "2024-05-13": 20
     }
   },
   {
