@@ -48,8 +48,6 @@ sites:
     url: https://heritageofcare.com/
   - name: Heritage Operations Group Employee Portal
     url: https://employeeofheritage.com/
-  - name: Hoopeston
-    url: https://hoopeston.unisyntechnologies.com
   - name: Illinois Lets Rock
     url: https://www.letsrockillinois.com/
   - name: ILFMA
@@ -84,8 +82,6 @@ sites:
     url: https://www.thesalonhouse.com/
   - name: Stone Face Manor
     url: https://www.stonefacemanor.com/
-  - name: Taco Grill
-    url: https://www.tacogrillsalsabar.com/
   - name: Taylor Construction
     url: http://buildwithtaylor.com
   - name: Tuscola Community Foundation
