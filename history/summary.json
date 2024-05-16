@@ -447,10 +447,10 @@
     "url": "https://hoopeston.unisyntechnologies.com",
     "icon": "https://icons.duckduckgo.com/ip3/hoopeston.unisyntechnologies.com.ico",
     "slug": "hoopeston",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
@@ -458,7 +458,9 @@
     "timeWeek": 881,
     "timeMonth": 739,
     "timeYear": 678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-16": 1
+    }
   },
   {
     "name": "Illinois Lets Rock",
@@ -756,11 +758,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "up",
-    "uptime": "93.39%",
+    "uptime": "93.42%",
     "uptimeDay": "98.40%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "93.39%",
+    "uptimeYear": "93.42%",
     "time": 2233,
     "timeDay": 5685,
     "timeWeek": 3992,
@@ -821,18 +823,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tacogrillsalsabar.com.ico",
     "slug": "taco-grill",
     "status": "down",
-    "uptime": "97.69%",
+    "uptime": "97.30%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.02%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "97.69%",
+    "uptimeWeek": "71.83%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "97.30%",
     "time": 833,
     "timeDay": 55,
     "timeWeek": 360,
     "timeMonth": 597,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2024-05-16": 661,
+      "2024-05-16": 1084,
       "2024-05-15": 1440,
       "2024-05-14": 316
     }
