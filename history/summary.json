@@ -127,10 +127,10 @@
     "url": "https://www.core-40.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core40",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 2069,
@@ -139,6 +139,7 @@
     "timeMonth": 2071,
     "timeYear": 2069,
     "dailyMinutesDown": {
+      "2024-05-20": 3,
       "2024-05-19": 23,
       "2024-05-13": 20
     }
@@ -244,10 +245,10 @@
     "url": "https://www.ecstone.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecstone.com.ico",
     "slug": "elmhurst-chicago-stone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 2251,
@@ -256,6 +257,7 @@
     "timeMonth": 2225,
     "timeYear": 2251,
     "dailyMinutesDown": {
+      "2024-05-20": 2,
       "2024-05-19": 23,
       "2024-05-13": 19
     }
@@ -392,10 +394,10 @@
     "url": "https://www.h2cartage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.h2cartage.com.ico",
     "slug": "h2-cartage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 2366,
@@ -404,6 +406,7 @@
     "timeMonth": 2769,
     "timeYear": 2366,
     "dailyMinutesDown": {
+      "2024-05-20": 2,
       "2024-05-19": 23,
       "2024-05-13": 19
     }
@@ -601,9 +604,9 @@
     "url": "https://www.thelandconnection.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thelandconnection.org.ico",
     "slug": "land-connection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.93%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
@@ -613,6 +616,7 @@
     "timeMonth": 701,
     "timeYear": 615,
     "dailyMinutesDown": {
+      "2024-05-20": 1,
       "2024-05-19": 23,
       "2024-05-13": 18
     }
@@ -623,18 +627,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.letsrockminnesota.com.ico",
     "slug": "lets-rock-minnesota",
     "status": "up",
-    "uptime": "97.60%",
+    "uptime": "97.57%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.54%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "97.60%",
+    "uptimeWeek": "73.27%",
+    "uptimeMonth": "93.85%",
+    "uptimeYear": "97.57%",
     "time": 959,
     "timeDay": 683,
     "timeWeek": 1145,
     "timeMonth": 941,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2024-05-20": 1174,
+      "2024-05-20": 1200,
       "2024-05-19": 1440,
       "2024-05-18": 54
     }
@@ -728,9 +732,9 @@
     "slug": "photonicare",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 894,
     "timeDay": 427,
@@ -738,7 +742,6 @@
     "timeMonth": 858,
     "timeYear": 894,
     "dailyMinutesDown": {
-      "2024-05-20": 8,
       "2024-04-14": 39
     }
   },
@@ -748,11 +751,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "up",
-    "uptime": "93.76%",
+    "uptime": "93.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "93.76%",
+    "uptimeYear": "93.77%",
     "time": 2308,
     "timeDay": 4091,
     "timeWeek": 4076,
@@ -795,18 +798,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.stonefacemanor.com.ico",
     "slug": "stone-face-manor",
     "status": "up",
-    "uptime": "97.60%",
+    "uptime": "97.57%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.54%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "97.60%",
+    "uptimeWeek": "73.28%",
+    "uptimeMonth": "93.85%",
+    "uptimeYear": "97.57%",
     "time": 1553,
     "timeDay": 3088,
     "timeWeek": 1429,
     "timeMonth": 1597,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2024-05-20": 1174,
+      "2024-05-20": 1201,
       "2024-05-19": 1440,
       "2024-05-18": 53
     }
@@ -817,18 +820,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/buildwithtaylor.com.ico",
     "slug": "taylor-construction",
     "status": "up",
-    "uptime": "97.60%",
+    "uptime": "97.57%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.54%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "97.60%",
+    "uptimeWeek": "73.28%",
+    "uptimeMonth": "93.85%",
+    "uptimeYear": "97.57%",
     "time": 2071,
     "timeDay": 2734,
     "timeWeek": 1726,
     "timeMonth": 1828,
     "timeYear": 2071,
     "dailyMinutesDown": {
-      "2024-05-20": 1174,
+      "2024-05-20": 1201,
       "2024-05-19": 1440,
       "2024-05-18": 53
     }
