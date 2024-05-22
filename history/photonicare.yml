@@ -1,7 +1,7 @@
 url: https://photoni.care
-status: up
-code: 200
-responseTime: 1094
-lastUpdated: 2024-05-22T10:23:10.128Z
+status: down
+code: 500
+responseTime: 6293
+lastUpdated: 2024-05-22T10:57:33.471Z
 startTime: 2024-03-04T18:27:16.744Z
 generator: Upptime <https://github.com/upptime/upptime>
