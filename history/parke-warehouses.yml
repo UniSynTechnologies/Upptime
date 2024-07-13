@@ -1,7 +1,7 @@
 url: https://www.parkewarehouses.com/
-status: up
-code: 200
-responseTime: 730
-lastUpdated: 2024-07-12T23:03:14.498Z
+status: down
+code: 500
+responseTime: 12505
+lastUpdated: 2024-07-13T17:33:40.327Z
 startTime: 2024-03-04T18:27:15.163Z
 generator: Upptime <https://github.com/upptime/upptime>
