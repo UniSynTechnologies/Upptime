@@ -1,7 +1,7 @@
 url: http://buildwithtaylor.com
-status: up
-code: 200
-responseTime: 5424
-lastUpdated: 2024-08-19T23:04:00.976Z
+status: down
+code: 503
+responseTime: 2192
+lastUpdated: 2024-08-20T18:50:42.025Z
 startTime: 2024-03-04T18:27:23.881Z
 generator: Upptime <https://github.com/upptime/upptime>
