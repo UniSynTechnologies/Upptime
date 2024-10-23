@@ -90,102 +90,104 @@ repo: Upptime
 #     url: https://villasseniorcare.com/
 #   - name: Worksource
 #     url: https://www.workse.org
+
 sites:
   - name: UniSyn Backup
     check: "tcp-ping"
     url: 104.155.190.154
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Open Hosting 1
     check: "tcp-ping"
     url: 34.16.44.80
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Open Hosting 2
     check: "tcp-ping"
     url: 104.197.128.162
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Open Hosting 3
     check: "tcp-ping"
     url: 104.197.146.59
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Pcare
     check: "tcp-ping"
     url: 104.197.204.95
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost Budget 1
     check: "tcp-ping"
     url: 35.209.225.177
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost1
     check: "tcp-ping"
     url: 130.211.189.207
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost10
     check: "tcp-ping"
     url: 34.170.116.178
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost2
     check: "tcp-ping"
     url: 104.197.180.165
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost3
     check: "tcp-ping"
     url: 107.178.218.143
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost4
     check: "tcp-ping"
     url: 23.236.52.200
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost5
     check: "tcp-ping"
     url: 35.193.191.247
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost6
     check: "tcp-ping"
     url: 34.123.58.9
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost7
     check: "tcp-ping"
     url: 35.226.17.76
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost8
     check: "tcp-ping"
     url: 35.223.22.129
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost9
     check: "tcp-ping"
     url: 34.135.6.209
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Worker1
     check: "tcp-ping"
     url: 35.188.154.239
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn WP Home
     check: "tcp-ping"
     url: 34.67.175.135
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: Butter Book Production
     check: "tcp-ping"
     url: 34.72.50.113
-    port: 53
+    port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
