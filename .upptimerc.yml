@@ -122,16 +122,6 @@ sites:
     url: 130.211.189.207
     port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
-  - name: UniSyn Webhost10
-    check: "tcp-ping"
-    url: 34.170.116.178
-    port: 443
-    icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
-  - name: UniSyn Webhost2
-    check: "tcp-ping"
-    url: 104.197.180.165
-    port: 443
-    icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Webhost3
     check: "tcp-ping"
     url: 107.178.218.143
@@ -165,6 +155,11 @@ sites:
   - name: UniSyn Webhost9
     check: "tcp-ping"
     url: 34.135.6.209
+    port: 443
+    icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
+  - name: UniSyn Webhost2
+    check: "tcp-ping"
+    url: 104.197.180.165
     port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: UniSyn Worker1
