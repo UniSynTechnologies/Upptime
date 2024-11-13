@@ -279,9 +279,9 @@
     "url": "34.67.175.135",
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-wp-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -290,7 +290,9 @@
     "timeWeek": 34,
     "timeMonth": 32,
     "timeYear": 32,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-13": 0
+    }
   },
   {
     "name": "Butter Book Production",
