@@ -167,11 +167,11 @@ sites:
     url: 35.188.154.239
     port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
-  - name: UniSyn WP Home
-    check: "tcp-ping"
-    url: 34.67.175.135
-    port: 443
-    icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
+  # - name: UniSyn WP Home
+  #   check: "tcp-ping"
+  #   url: 34.67.175.135
+  #   port: 443
+  #   icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
   - name: Butter Book Production
     check: "tcp-ping"
     url: 34.72.50.113
