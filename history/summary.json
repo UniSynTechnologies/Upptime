@@ -4,9 +4,9 @@
     "url": "130.211.189.207",
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-webhost1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 36,
     "timeYear": 35,
     "dailyMinutesDown": {
+      "2025-04-08": 0,
       "2025-03-21": 199,
       "2024-11-14": 49
     }
