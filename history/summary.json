@@ -347,18 +347,18 @@
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-sql-1-critical",
     "status": "down",
-    "uptime": "81.65%",
-    "uptimeDay": "81.65%",
-    "uptimeWeek": "81.65%",
-    "uptimeMonth": "81.65%",
-    "uptimeYear": "81.65%",
+    "uptime": "68.29%",
+    "uptimeDay": "68.29%",
+    "uptimeWeek": "68.29%",
+    "uptimeMonth": "68.29%",
+    "uptimeYear": "68.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 0
+      "2025-04-16": 1
     }
   }
 ]
