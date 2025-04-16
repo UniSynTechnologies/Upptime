@@ -125,7 +125,7 @@ sites:
   - name: UniSyn SQL-1 [Critical]
     compute-instance-name: unisyn-sql
     check: "tcp-ping"
-    url: 104.197.204.95
+    url: 34.69.59.226
     port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
