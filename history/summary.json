@@ -178,10 +178,10 @@
     "url": "34.170.116.178",
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-webhost10",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
@@ -189,7 +189,9 @@
     "timeWeek": 45,
     "timeMonth": 38,
     "timeYear": 36,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-17": 1
+    }
   },
   {
     "name": "UniSyn Open Hosting 1",
@@ -347,18 +349,19 @@
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-sql-1-critical",
     "status": "down",
-    "uptime": "68.29%",
-    "uptimeDay": "68.29%",
-    "uptimeWeek": "68.29%",
-    "uptimeMonth": "68.29%",
-    "uptimeYear": "68.29%",
+    "uptime": "6.14%",
+    "uptimeDay": "6.14%",
+    "uptimeWeek": "6.14%",
+    "uptimeMonth": "6.14%",
+    "uptimeYear": "6.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 1
+      "2025-04-17": 2,
+      "2025-04-16": 17
     }
   }
 ]
