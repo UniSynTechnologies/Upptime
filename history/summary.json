@@ -179,19 +179,17 @@
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-webhost10",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 36,
     "timeDay": 52,
     "timeWeek": 45,
     "timeMonth": 38,
     "timeYear": 36,
-    "dailyMinutesDown": {
-      "2025-04-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UniSyn Open Hosting 1",
