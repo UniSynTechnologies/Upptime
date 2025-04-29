@@ -92,12 +92,12 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.29%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 35,
     "timeDay": 16,
-    "timeWeek": 36,
+    "timeWeek": 34,
     "timeMonth": 40,
     "timeYear": 35,
     "dailyMinutesDown": {
@@ -109,9 +109,9 @@
     "url": "34.123.58.9",
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-webhost6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -120,7 +120,9 @@
     "timeWeek": 33,
     "timeMonth": 39,
     "timeYear": 35,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-29": 0
+    }
   },
   {
     "name": "UniSyn Webhost7",
