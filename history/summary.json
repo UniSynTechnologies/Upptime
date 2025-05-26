@@ -30,12 +30,12 @@
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.45%",
     "time": 36,
     "timeDay": 30,
     "timeWeek": 25,
-    "timeMonth": 35,
+    "timeMonth": 33,
     "timeYear": 36,
     "dailyMinutesDown": {
       "2025-04-26": 34,
@@ -89,9 +89,9 @@
     "url": "35.193.191.247",
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-webhost5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -101,6 +101,7 @@
     "timeMonth": 34,
     "timeYear": 35,
     "dailyMinutesDown": {
+      "2025-05-26": 0,
       "2025-05-14": 18,
       "2025-04-22": 71
     }
