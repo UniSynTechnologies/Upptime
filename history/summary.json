@@ -160,10 +160,10 @@
     "url": "35.223.22.129",
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-webhost8",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.96%",
     "time": 34,
@@ -172,6 +172,7 @@
     "timeMonth": 32,
     "timeYear": 34,
     "dailyMinutesDown": {
+      "2025-09-23": 0,
       "2025-09-17": 106,
       "2025-09-15": 20,
       "2024-12-19": 45
