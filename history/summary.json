@@ -6,7 +6,7 @@
     "slug": "uni-syn-webhost1",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 28,
     "timeYear": 34,
     "dailyMinutesDown": {
+      "2025-10-01": 0,
       "2025-04-08": 32,
       "2025-03-21": 199,
       "2024-11-14": 49
