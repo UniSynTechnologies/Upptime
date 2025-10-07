@@ -66,12 +66,12 @@ sites:
     port: 443
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
-  - name: UniSyn Webhost10
-    compute-instance-name: unisyn-webhost10
-    check: "tcp-ping"
-    url: 34.170.116.178
-    port: 443
-    icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
+  # - name: UniSyn Webhost10
+    # compute-instance-name: unisyn-webhost10
+    # check: "tcp-ping"
+    # url: 34.170.116.178
+    # port: 443
+    # icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Open Hosting 1
     compute-instance-name: unisyn-open-hosting-1
