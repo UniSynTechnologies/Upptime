@@ -282,19 +282,19 @@
     "url": "35.209.225.177",
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-webhost-budget-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 21,
+    "timeDay": 19,
     "timeWeek": 17,
     "timeMonth": 26,
-    "timeYear": 37,
+    "timeYear": 36,
     "dailyMinutesDown": {
-      "2025-11-17": 0
+      "2025-11-17": 10
     }
   },
   {
