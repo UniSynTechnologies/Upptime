@@ -2,12 +2,34 @@
 owner: UniSynTechnologies
 repo: Upptime
 
+# -----------------------------------------------------------------------------
+# Section grouping is done via `tags`. The status page renders one section
+# per tag. Order below: Infrastructure (TCP-ping to bare IPs — "is the box
+# alive on 443"), then WordPress (per-site body checks on the rest of the
+# fleet), then TopSale (per-site body checks for webhost1 e-commerce stores).
+#
+# Body checks: each WordPress / TopSale entry has `body: "TODO"` — replace
+# with a string only present on the real homepage. Suggestions:
+#   - site name / business name from the <title> or H1
+#   - footer copyright line ("© Company Name")
+#   - phone number or address
+# Avoid generic strings like "WordPress" or "Home" — those appear on error
+# pages and theme defaults.
+# -----------------------------------------------------------------------------
+
 sites:
+  # ===========================================================================
+  # INFRASTRUCTURE — TCP-ping on 443 to bare IP
+  # Answers: "is the VM accepting connections at all?"
+  # Does NOT validate Apache, TLS handshake, or vhost routing.
+  # ===========================================================================
+
   - name: UniSyn Webhost1
     compute-instance-name: unisyn-webhost1
     check: "tcp-ping"
     url: 130.211.189.207
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Webhost2
@@ -15,6 +37,7 @@ sites:
     check: "tcp-ping"
     url: 104.197.180.165
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Webhost3
@@ -22,6 +45,7 @@ sites:
     check: "tcp-ping"
     url: 107.178.218.143
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Webhost4
@@ -29,6 +53,7 @@ sites:
     check: "tcp-ping"
     url: 23.236.52.200
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Webhost5
@@ -36,6 +61,7 @@ sites:
     check: "tcp-ping"
     url: 35.193.191.247
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Webhost6
@@ -43,6 +69,7 @@ sites:
     check: "tcp-ping"
     url: 34.123.58.9
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Webhost7
@@ -50,6 +77,7 @@ sites:
     check: "tcp-ping"
     url: 35.226.17.76
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Webhost8
@@ -57,6 +85,7 @@ sites:
     check: "tcp-ping"
     url: 35.223.22.129
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Webhost9
@@ -64,6 +93,7 @@ sites:
     check: "tcp-ping"
     url: 34.135.6.209
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   # - name: UniSyn Webhost10
@@ -71,6 +101,7 @@ sites:
     # check: "tcp-ping"
     # url: 34.170.116.178
     # port: 443
+    # tags: ["Infrastructure"]
     # icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Open Hosting 1
@@ -78,6 +109,7 @@ sites:
     check: "tcp-ping"
     url: 34.16.44.80
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Open Hosting 2
@@ -85,6 +117,7 @@ sites:
     check: "tcp-ping"
     url: 104.197.128.162
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Open Hosting 3
@@ -92,6 +125,7 @@ sites:
     check: "tcp-ping"
     url: 104.197.146.59
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   # - name: UniSyn Webhost Budget 1
@@ -99,6 +133,7 @@ sites:
   #   check: "tcp-ping"
   #   url: 35.209.225.177
   #   port: 443
+  #   tags: ["Infrastructure"]
   #   icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Worker1
@@ -106,6 +141,7 @@ sites:
     check: "tcp-ping"
     url: 35.188.154.239
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: Butter Book Production
@@ -113,6 +149,7 @@ sites:
     check: "tcp-ping"
     url: 34.72.50.113
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   - name: UniSyn Pcare
@@ -120,6 +157,7 @@ sites:
     check: "tcp-ping"
     url: 104.197.204.95
     port: 443
+    tags: ["Infrastructure"]
     icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
 
   # - name: UniSyn SQL-1 [Critical]
@@ -127,7 +165,371 @@ sites:
   #   check: "tcp-ping"
   #   url: 34.69.59.226
   #   port: 443
+  #   tags: ["Infrastructure"]
   #   icon: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png
+
+  # ===========================================================================
+  # WORDPRESS — per-site HTTP body checks
+  # Catches: server-up-but-site-down, white-screen-of-death, wrong-vhost-served,
+  # CF-cached-error-page, theme/plugin fatal, DB connection failure.
+  # Body strings populated from upptime-body-candidates.sh output 2026-05-25.
+  # ===========================================================================
+
+  # --- webhost2-new ---
+  - name: Custom Flooring Interior
+    url: https://www.customflooringinterior.com
+    body: "Custom Flooring and Interior"
+    tags: ["WordPress"]
+
+  - name: D1 Networks
+    url: https://www.d1networks-inc.com
+    body: "Working to connect, protect, and monitor your business"
+    tags: ["WordPress"]
+
+  - name: Elite ICT
+    url: https://www.elite-ict.com
+    body: "Elite ICT Services"
+    tags: ["WordPress"]
+
+  - name: The Salon House
+    url: https://www.thesalonhouse.com
+    body: "Private Salon Suites"
+    tags: ["WordPress"]
+
+  - name: Illinois Farmlink
+    url: https://www.illinoisfarmlink.org
+    body: "Illinois Farm Link"
+    tags: ["WordPress"]
+
+  # --- webhost4 ---
+  # NOTE: Let's Rock sites share template — body strings must be domain-specific
+  - name: Let's Rock Iowa
+    url: https://www.letsrockiowa.com
+    body: "letsrockiowa.com"  # FIXME: title is just "Home - Let's Rock" — verify this string appears in body
+    tags: ["WordPress"]
+
+  - name: Urbana Parks Foundation
+    url: https://www.urbanaparksfoundation.org
+    body: "Great Parks Build Great Communities"
+    tags: ["WordPress"]
+
+  # --- webhost5 ---
+  - name: CC Environmental Stewardship
+    url: https://www.ccenvstew.org
+    body: "Champaign County Environmental Stewards"
+    tags: ["WordPress"]
+
+  - name: ILFMA
+    url: https://www.ilfma.org
+    body: "Illinois Farmers Market Association"
+    tags: ["WordPress"]
+
+  - name: Kleenrite
+    url: https://www.kleenrite.net
+    body: "KleenRite"
+    tags: ["WordPress"]
+
+  # --- webhost7 ---
+  - name: Build With Taylor
+    url: https://www.buildwithtaylor.com
+    body: "Taylor Construction"
+    tags: ["WordPress"]
+
+  - name: Let's Rock Minnesota
+    url: https://www.letsrockminnesota.com
+    body: "letsrockminnesota.com"  # FIXME: title is just "Home - Let's Rock" — verify
+    tags: ["WordPress"]
+
+  - name: Stoneface Manor
+    url: https://www.stonefacemanor.com
+    body: "Stone Face Manor"
+    tags: ["WordPress"]
+
+  # --- webhost8 ---
+  - name: Core-40
+    url: https://www.core-40.com
+    body: "INNOVATE, INCUBATE, GROW"
+    tags: ["WordPress"]
+
+  - name: Ecstone
+    url: https://www.ecstone.com
+    body: "Elmhurst Chicago Stone Company"
+    tags: ["WordPress"]
+
+  - name: H2 Cartage
+    url: https://www.h2cartage.com
+    body: "Driving You to Success"
+    tags: ["WordPress"]
+
+  - name: The Land Connection
+    url: https://www.thelandconnection.org
+    body: "Healthy Farms"
+    tags: ["WordPress"]
+
+  # --- webhost9 ---
+  - name: Let's Rock Missouri
+    url: https://www.letsrockmissouri.com
+    body: "letsrockmissouri.com"  # FIXME: title is just "Home - Let's Rock" — verify
+    tags: ["WordPress"]
+
+  - name: Rethink Asphalt
+    url: https://www.rethinkasphalt.com
+    body: "Rethink Asphalt"
+    tags: ["WordPress"]
+
+  - name: WorkSE
+    url: https://www.workse.org
+    body: "Worksource"
+    tags: ["WordPress"]
+
+  # --- webhost-6-replacement ---
+  - name: QCB Illinois
+    url: https://qcb.illinois.edu
+    body: "QCB"  # FIXME: very short — recommend a more distinctive string from the actual page
+    tags: ["WordPress"]
+
+  - name: Sage City Market
+    url: https://www.sagecitymarket.com
+    body: "Sage City Market"
+    tags: ["WordPress"]
+
+  # --- webhost3-replacement ---
+  - name: Let's Rock Illinois
+    url: https://www.letsrockillinois.com
+    body: "letsrockillinois.com"  # FIXME: title is just "Home - Let's Rock" — verify
+    tags: ["WordPress"]
+
+  - name: Parke Warehouses
+    url: https://www.parkewarehouses.com
+    body: "Traditionally Progressive Since 1854"
+    tags: ["WordPress"]
+
+  - name: Tuscola Foundation
+    url: https://www.tuscolafoundation.org
+    body: "Tuscola Community Foundation"
+    tags: ["WordPress"]
+
+  # --- open-hosting-1 ---
+  - name: Cybras
+    url: https://www.cybras.com
+    body: "Confidentially Yours"
+    tags: ["WordPress"]
+
+  # --- open-hosting-2 ---
+  # NOTE: employeeofheritage.com serves WP login as homepage — verify this is intentional
+  - name: Employee of Heritage
+    url: https://employeeofheritage.com
+    body: "Heritage Operations Group Employee Portal"
+    tags: ["WordPress"]
+
+  - name: Evergreen SLC
+    url: https://evergreenslc.com
+    body: "Evergreen Senior Living"
+    tags: ["WordPress"]
+
+  - name: Greentree Pharmacy
+    url: https://greentreepharmacy.com
+    body: "Green Tree Pharmacy"
+    tags: ["WordPress"]
+
+  - name: Heritage of Care
+    url: https://heritageofcare.com
+    body: "Heritage Operations Group"
+    tags: ["WordPress"]
+
+  # --- open-hosting-3 ---
+  - name: Heritage Healthcare
+    url: https://www.heritagehealthcare.org
+    body: "Heritage Health in Hoopeston"
+    tags: ["WordPress"]
+
+  - name: Sunny Acres Home
+    url: https://www.sunnyacreshome.org
+    body: "Where Country Living Meets Quality Care"
+    tags: ["WordPress"]
+
+  - name: Vonderlieth Living Center
+    url: https://www.vonderliethlivingcenter.com
+    body: "Vonderlieth"
+    tags: ["WordPress"]
+
+  # ===========================================================================
+  # TOPSALE — webhost1 e-commerce / swag stores (per-site HTTP body checks)
+  #
+  # SITES PENDING WEBHOST1 TLS FIX (reese): status 000 in last probe — leaving
+  # body: TODO until TLS resolves, then re-run candidates script to populate.
+  #   - cuwoodshop, inspireswagorder, lechasestore, leicamarketingstore,
+  #     occsystemsstore
+  #
+  # SITES COMMENTED OUT — confirmed stale/migrated, pending offboarding:
+  #   - athomewithcl.com (migrated to Vercel)
+  #   - impressionsquared.com (stale, offboard)
+  #   - inspire.promo (domain expired/parked)
+  #   - rockitmusicrocks.com (stale, offboard)
+  #
+  # SITES COMMENTED OUT — needs verification:
+  #   - diverzifystore.com (likely stale, no title returned)
+  #
+  # NOTE: Many TopSale sites use template with title "<Brand> - Home" and
+  # meta "Home". Body strings use brand name to avoid cross-site false matches.
+  # ===========================================================================
+
+  # - name: At Home With CL
+  #   url: https://www.athomewithcl.com
+  #   body: "TODO"
+  #   tags: ["TopSale"]
+  #   # Migrated to Vercel — not on our infrastructure
+
+  - name: Better Tomorrows Counseling
+    url: https://www.bettertomorrowscounseling.org
+    body: "Better Tomorrows"
+    tags: ["TopSale"]
+
+  - name: Compass Swag Shop
+    url: https://www.compassswagshop.com
+    body: "Compass Mortgage"
+    tags: ["TopSale"]
+
+  - name: Core Site Shop
+    url: https://www.coresiteshop.com
+    body: "CoreSite"
+    tags: ["TopSale"]
+
+  - name: CU Wood Shop
+    url: https://www.cuwoodshop.com
+    body: "CU Woodshop"
+    tags: ["TopSale"]
+
+  - name: Cynthia T Morgan Law Office
+    url: https://www.cynthiatmorganlawoffice.com
+    body: "Cynthia T. Morgan Attorney at Law"
+    tags: ["TopSale"]
+
+  # - name: Diverzify Store
+  #   url: https://www.diverzifystore.com
+  #   body: "TODO"
+  #   tags: ["TopSale"]
+  #   # Likely stale — no title returned; needs verification before re-enabling
+
+  - name: Echo360 Swag Shop
+    url: https://www.echo360swagshop.com
+    body: "Echo360"
+    tags: ["TopSale"]
+
+  - name: FAD Merch
+    url: https://www.fadmerch.com
+    body: "Fluid-Aire Dynamics"
+    tags: ["TopSale"]
+
+  - name: GYG Store USA
+    url: https://www.gygstoreusa.com
+    body: "Guzman y Gomez"
+    tags: ["TopSale"]
+
+  # - name: Impressions Squared
+  #   url: https://www.impressionsquared.com
+  #   body: "TODO"
+  #   tags: ["TopSale"]
+  #   # Stale site — pending offboarding
+
+  # - name: Inspire Promo
+  #   url: https://www.inspire.promo
+  #   body: "TODO"
+  #   tags: ["TopSale"]
+  #   # Domain expired/parked on GoDaddy — pending offboarding
+
+  # FIXME: vhost serves title "Inspire Demo - Home" — verify this is correct
+  # site for inspireswagorder.com or if wrong vhost is being served
+  - name: Inspire Swag Order
+    url: https://www.inspireswagorder.com
+    body: "Inspire Demo"
+    tags: ["TopSale"]
+
+  - name: Kymanox Swag Shop
+    url: https://www.kymanoxswagshop.com
+    body: "Kymanox"
+    tags: ["TopSale"]
+
+  - name: LeChase Store
+    url: https://www.lechasestore.com
+    body: "LeChase"
+    tags: ["TopSale"]
+
+  - name: Leica Marketing Store
+    url: https://www.leicamarketingstore.com
+    body: "TODO"  # FIXME: still status 000 after fleet TLS fix — site-specific issue, investigate
+    tags: ["TopSale"]
+
+  - name: Meyer Drapery
+    url: https://www.meyerdrapery.com
+    body: "Meyer Drapery"
+    tags: ["TopSale"]
+
+  - name: OCC Systems Store
+    url: https://www.occsystemsstore.com
+    body: "OCC Systems"
+    tags: ["TopSale"]
+
+  - name: OSG Store
+    url: https://www.osgstore.com
+    body: "OSG"  # FIXME: very short — consider more distinctive string
+    tags: ["TopSale"]
+
+  - name: Prairieland Designs
+    url: https://www.prairieland-designs.com
+    body: "Prairieland Designs"
+    tags: ["TopSale"]
+
+  # - name: Rockit Music Rocks
+  #   url: https://www.rockitmusicrocks.com
+  #   body: "TODO"
+  #   tags: ["TopSale"]
+  #   # Stale site — pending offboarding
+
+  - name: SEKO Store
+    url: https://www.seko-store.com
+    body: "SEKO"  # FIXME: very short — consider more distinctive string
+    tags: ["TopSale"]
+
+  - name: Shop Leica Biosystems
+    url: https://www.shopleicabiosystems.com
+    body: "Leica Biosystems"
+    tags: ["TopSale"]
+
+  - name: Shop Main Street Home Loans
+    url: https://www.shopmainstreethomeloans.com
+    body: "Main Street Home Loans"
+    tags: ["TopSale"]
+
+  - name: Shop NFM
+    url: https://www.shopnfm.com
+    body: "NFM Lending"
+    tags: ["TopSale"]
+
+  - name: Shop NFM GLD
+    url: https://www.shopnfmgld.com
+    body: "NFM Great Lakes"
+    tags: ["TopSale"]
+
+  - name: Tricoci Marketing Store
+    url: https://www.tricocimarketingstore.com
+    body: "Tricoci University Marketing"
+    tags: ["TopSale"]
+
+  - name: Unipipe Merch
+    url: https://www.unipipemerch.com
+    body: "Unipipe"
+    tags: ["TopSale"]
+
+  - name: VF Promo Store
+    url: https://www.vfpromostore.com
+    body: "Veterans First"
+    tags: ["TopSale"]
+
+  - name: WM Promo Store
+    url: https://www.wmpromostore.com
+    body: "Wintrust Mortgage"
+    tags: ["TopSale"]
 
 
 status-website:
@@ -138,7 +540,7 @@ status-website:
   logoUrl: https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/05/14113831/unisyn-logo-sm.png
   name: UniSyn Technologies
   introTitle: "**UniSyn** is a local web design and development team, specializing in high quality websites and applications!"
-  introMessage: This is our status page, here we (and you) can monitor the status of our sites, services, and applications to see just how dedicated we are to high availability in our hosting. 
+  introMessage: This is our status page, here we (and you) can monitor the status of our sites, services, and applications to see just how dedicated we are to high availability in our hosting.
   navbar:
     - title: UniSyn
       href: https://www.unisyn.tech
