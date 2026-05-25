@@ -263,7 +263,7 @@ sites:
 
   - name: The Land Connection
     url: https://www.thelandconnection.org
-    body: "Healthy Farms"
+    __dangerous__body_down_if_text_missing: "Healthy Farms"
     tags: ["WordPress"]
 
   # --- webhost9 ---
