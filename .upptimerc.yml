@@ -455,10 +455,10 @@ sites:
     body: "LeChase"
     tags: ["TopSale"]
 
-  - name: Leica Marketing Store
-    url: https://www.leicamarketingstore.com
-    body: "TODO"  # FIXME: still status 000 after fleet TLS fix — site-specific issue, investigate
-    tags: ["TopSale"]
+  # - name: Leica Marketing Store
+  #   url: https://www.leicamarketingstore.com
+  #   body: "TODO"  # FIXME: still status 000 after fleet TLS fix — site-specific issue, investigate
+  #   tags: ["TopSale"]
 
   - name: Meyer Drapery
     url: https://www.meyerdrapery.com
