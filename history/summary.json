@@ -598,19 +598,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.thelandconnection.org.ico",
     "slug": "the-land-connection",
     "status": "up",
-    "uptime": "16.56%",
-    "uptimeDay": "16.56%",
-    "uptimeWeek": "16.56%",
-    "uptimeMonth": "16.56%",
-    "uptimeYear": "16.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 57,
     "timeDay": 57,
     "timeWeek": 57,
     "timeMonth": 57,
     "timeYear": 57,
-    "dailyMinutesDown": {
-      "2026-05-25": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Let's Rock Missouri",
