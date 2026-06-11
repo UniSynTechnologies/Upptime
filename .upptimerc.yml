@@ -235,10 +235,10 @@ sites:
     body: "Taylor Construction"
     tags: ["WordPress"]
 
-  - name: Let's Rock Minnesota
-    url: https://www.letsrockminnesota.com
-    body: "letsrockminnesota.com"  # FIXME: title is just "Home - Let's Rock" — verify
-    tags: ["WordPress"]
+  # - name: Let's Rock Minnesota
+  #   url: https://www.letsrockminnesota.com
+  #   body: "letsrockminnesota.com"  # FIXME: title is just "Home - Let's Rock" — verify
+  #   tags: ["WordPress"]
 
   - name: Stoneface Manor
     url: https://www.stonefacemanor.com
