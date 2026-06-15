@@ -456,7 +456,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ilfma.org.ico",
     "slug": "ilfma",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.88%",
@@ -676,7 +676,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "up",
-    "uptime": "75.46%",
+    "uptime": "75.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -694,11 +694,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.letsrockillinois.com.ico",
     "slug": "let-s-rock-illinois",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "92.96%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.33%",
+    "uptimeDay": "90.28%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 244,
     "timeDay": 244,
     "timeWeek": 252,
@@ -707,7 +707,7 @@
     "dailyMinutesDown": {
       "2026-06-13": 55,
       "2026-06-14": 89,
-      "2026-06-15": 12
+      "2026-06-15": 51
     }
   },
   {
@@ -716,11 +716,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.parkewarehouses.com.ico",
     "slug": "parke-warehouses",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "93.63%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "uptime": "98.92%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 1598,
     "timeDay": 1257,
     "timeWeek": 1423,
@@ -729,7 +729,7 @@
     "dailyMinutesDown": {
       "2026-06-13": 50,
       "2026-06-14": 85,
-      "2026-06-15": 7
+      "2026-06-15": 46
     }
   },
   {
@@ -738,11 +738,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tuscolafoundation.org.ico",
     "slug": "tuscola-foundation",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "94.37%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.44%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 607,
     "timeDay": 541,
     "timeWeek": 609,
@@ -751,7 +751,7 @@
     "dailyMinutesDown": {
       "2026-06-13": 44,
       "2026-06-14": 80,
-      "2026-06-15": 1
+      "2026-06-15": 40
     }
   },
   {
