@@ -326,7 +326,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.d1networks-inc.com.ico",
     "slug": "d1-networks",
     "status": "up",
-    "uptime": "97.70%",
+    "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -416,11 +416,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.urbanaparksfoundation.org.ico",
     "slug": "urbana-parks-foundation",
     "status": "up",
-    "uptime": "98.17%",
+    "uptime": "98.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
     "time": 1526,
     "timeDay": 1240,
     "timeWeek": 1178,
@@ -676,7 +676,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "up",
-    "uptime": "75.49%",
+    "uptime": "75.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -694,11 +694,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.letsrockillinois.com.ico",
     "slug": "let-s-rock-illinois",
     "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.19%",
+    "uptimeDay": "87.36%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 244,
     "timeDay": 244,
     "timeWeek": 252,
@@ -707,7 +707,7 @@
     "dailyMinutesDown": {
       "2026-06-13": 55,
       "2026-06-14": 89,
-      "2026-06-15": 51
+      "2026-06-15": 93
     }
   },
   {
@@ -716,11 +716,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.parkewarehouses.com.ico",
     "slug": "parke-warehouses",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "90.96%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "98.78%",
+    "uptimeDay": "88.04%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 1598,
     "timeDay": 1257,
     "timeWeek": 1423,
@@ -729,7 +729,7 @@
     "dailyMinutesDown": {
       "2026-06-13": 50,
       "2026-06-14": 85,
-      "2026-06-15": 46
+      "2026-06-15": 88
     }
   },
   {
@@ -737,21 +737,21 @@
     "url": "https://www.tuscolafoundation.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.tuscolafoundation.org.ico",
     "slug": "tuscola-foundation",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "91.70%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 607,
-    "timeDay": 541,
-    "timeWeek": 609,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "88.85%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
+    "time": 1192,
+    "timeDay": 6213,
+    "timeWeek": 2149,
+    "timeMonth": 1192,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2026-06-13": 44,
       "2026-06-14": 80,
-      "2026-06-15": 40
+      "2026-06-15": 81
     }
   },
   {
