@@ -525,19 +525,20 @@
     "url": "https://www.core-40.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.core-40.com.ico",
     "slug": "core-40",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.95%",
     "time": 2200,
     "timeDay": 3347,
     "timeWeek": 2714,
     "timeMonth": 2463,
     "timeYear": 2200,
     "dailyMinutesDown": {
-      "2026-08-21": 62
+      "2026-08-21": 62,
+      "2026-09-01": 2
     }
   },
   {
@@ -582,11 +583,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.thelandconnection.org.ico",
     "slug": "the-land-connection",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "81.29%",
     "uptimeWeek": "97.14%",
     "uptimeMonth": "98.66%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 186,
     "timeDay": 178,
     "timeWeek": 164,
@@ -745,17 +746,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tuscolafoundation.org.ico",
     "slug": "tuscola-foundation",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.86%",
     "time": 858,
     "timeDay": 517,
     "timeWeek": 869,
     "timeMonth": 845,
     "timeYear": 858,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-13": 44,
+      "2026-06-14": 80,
+      "2026-06-15": 81
+    }
   },
   {
     "name": "Cybras",
