@@ -174,10 +174,10 @@
     "url": "34.16.44.80",
     "icon": "https://unisyn-wp-assets.s3.amazonaws.com/unisyn-homepage/2021/03/15155324/cropped-unisyn-logo-orange-180x180.png",
     "slug": "uni-syn-open-hosting-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 33,
@@ -185,7 +185,9 @@
     "timeWeek": 37,
     "timeMonth": 36,
     "timeYear": 35,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-29": 2
+    }
   },
   {
     "name": "UniSyn Open Hosting 2",
@@ -672,7 +674,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sagecitymarket.com.ico",
     "slug": "sage-city-market",
     "status": "up",
-    "uptime": "96.83%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -757,13 +759,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cybras.com.ico",
     "slug": "cybras",
     "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "62.28%",
-    "uptimeWeek": "94.61%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "99.15%",
+    "uptime": "98.73%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.06%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "98.73%",
     "time": 536,
-    "timeDay": 54,
+    "timeDay": 74,
     "timeWeek": 123,
     "timeMonth": 163,
     "timeYear": 536,
@@ -783,7 +785,7 @@
       "2026-10-07": 11,
       "2026-10-19": 41,
       "2026-10-18": 59,
-      "2026-10-29": 285,
+      "2026-10-29": 1248,
       "2026-10-28": 258
     }
   },
